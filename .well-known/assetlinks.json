@@ -1,0 +1,5 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { "namespace": "gmap_app", "package_name": "com.example.gmap",
+               "sha256_cert_fingerprints": ["7D:B4:85:28:87:76:3F:77:C1:1B:16:98:64:EF:B8:FF:6A:DC:6C:5C:59:5E:0C:8A:21:66:C0:9E:2D:DB:01:4A"] }
+}]
