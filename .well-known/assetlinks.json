@@ -1,5 +1,14 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target" : { "namespace": "gmap_app", "package_name": "com.example.gmap",
-               "sha256_cert_fingerprints": ["7D:B4:85:28:87:76:3F:77:C1:1B:16:98:64:EF:B8:FF:6A:DC:6C:5C:59:5E:0C:8A:21:66:C0:9E:2D:DB:01:4A"] }
-}]
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.example.gmap",
+            "sha256_cert_fingerprints": [
+                "13:C7:8E:45:71:04:C0:1C:12:A2:2A:10:40:C1:FC:5E:E2:60:4D:00:AF:BB:8B:60:FA:32:F5:E5:B5:D0:5E:04"
+            ]
+        }
+    }
+]
